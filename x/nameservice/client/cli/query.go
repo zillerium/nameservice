@@ -5,7 +5,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/iNukeLaPeste/nameservice/x/nameservice"
+	"github.com/zillerium/nameservice/x/nameservice"
 	"github.com/spf13/cobra"
 )
 
